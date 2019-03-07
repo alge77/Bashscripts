@@ -2,8 +2,8 @@
 
 TEXT_RESET='\e[0m'
 TEXT_RED_B='\e[1;31m'
-TEXT_YELLOW='\e[33;100m'
-TEXT_GREEN='\e[32;100m'
+TEXT_YELLOW='\e[33m'
+TEXT_GREEN='\e[32m'
 TEXT_BLINK='\e[5m'
 
 echo -e $TEXT_GREEN
